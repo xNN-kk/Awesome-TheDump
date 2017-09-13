@@ -5,11 +5,12 @@
 ![Tux](img/tux.png)
 
 
-🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
-<br>
-🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
- ## [Games](#games)
+#🐧 [System](#System)
+- [linux-dash](https://afaqurk.github.io/linux-dash/) 
+
+
+ #🐧 [Games](#games)
 - [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.
 - [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
 - [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
